@@ -1,6 +1,6 @@
 ### Hi there 👋
-[![Stats](https://github-readme-stats.vercel.app/api?username=Daviiiiid123)](https://github.com/Daviiiiid123/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daviiiiid123)](https://github.com/Daviiiiid123/github-readme-stats)
 
 <!--
 **Daviiiiid123/Daviiiiid123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
